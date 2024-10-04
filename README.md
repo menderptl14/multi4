@@ -6,3 +6,5 @@
 
 ![model](https://github.com/menderptl14/youtube_manage/blob/master/diagram-export-7-8-2024-9_38_49-PM.png?raw=true)
 
+<img src="https://github.com/menderptl14/multi4/blob/master/assests/photo_2024-10-04_14-05-07.jpg" width="300" />
+
